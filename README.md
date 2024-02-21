@@ -9,5 +9,4 @@ My Top Three Classes
 2. Mike's Class
 3. Mike's Class
 
-My Favorite Playlist
-https://www.youtube.com/
+[My Playlist](https://www.youtube.com/
