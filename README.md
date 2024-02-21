@@ -1,12 +1,12 @@
 # First
 My first website
 
-## My Favorite Classes
+## My Favorite Class
 ![alt text](palm-trees-on-the-tropical-beach-of-skynesher.jpg)
 
-My Top Three Classes
-1. Mike's Class
-2. Mike's Class
-3. Mike's Class
+3 Reasons Why
+1. Mike is HIM
+2. Mike is the GOAT
+3. Mike ROCKS
 
 [My Playlist](https://www.youtube.com/)
